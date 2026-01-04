@@ -1,5 +1,4 @@
-USE DataWhereHourse;
-GO
+
 
 CREATE OR ALTER PROCEDURE silver.load_erp_loc_a101
 AS 
